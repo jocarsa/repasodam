@@ -1,0 +1,5 @@
+<!DOCTYPE libro SYSTEM "libro.dtd">
+<libro>
+  <titulo>Aprende SGML</titulo>
+  <autor>Jose Vicente</autor>
+</libro>

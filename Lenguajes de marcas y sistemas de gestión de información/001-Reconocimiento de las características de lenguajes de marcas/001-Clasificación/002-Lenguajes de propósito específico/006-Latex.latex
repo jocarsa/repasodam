@@ -1,0 +1,57 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\title{Perfil profesional de Jose Vicente Carratalá}
+\author{Jose Vicente Carratalá Sanchis}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Resumen}
+
+Jose Vicente Carratalá es un profesional del ámbito tecnológico, especializado en programación, administración de servidores Linux, desarrollo de aplicaciones web y creación de contenido educativo. Es autor de varios libros técnicos y tutor de numerosos alumnos en materias relacionadas con la informática y la programación.
+
+\section{Formación}
+
+\begin{itemize}
+    \item Ingeniero Técnico en Informática de Sistemas.
+    \item Máster en Formación del Profesorado.
+    \item Certificaciones en Linux, desarrollo web y programación avanzada.
+\end{itemize}
+
+\section{Experiencia profesional}
+
+\begin{itemize}
+    \item Desarrollo de software de gestión empresarial (ERP, CRM, BI).
+    \item Diseño e implementación de servidores seguros en entornos Linux.
+    \item Creación de cursos online y libros técnicos.
+    \item Especialista en Python, C++, Java, HTML, CSS, JavaScript y PHP.
+\end{itemize}
+
+\section{Publicaciones destacadas}
+
+\begin{itemize}
+    \item \textbf{Aprende programación con Python}
+    \item \textbf{Desarrollo de aplicaciones con C++}
+    \item \textbf{Fundamentos de HTML, CSS y JavaScript}
+    \item \textbf{Administración de servidores con Ubuntu Server}
+\end{itemize}
+
+\section{Contacto y enlaces}
+
+\begin{itemize}
+    \item Web personal: \url{https://josevicentecarratala.com}
+    \item Proyecto educativo: \url{https://comoprogramar.es}
+    \item GitHub: \url{https://github.com/josevicentecarratala}
+\end{itemize}
+
+\end{document}
+

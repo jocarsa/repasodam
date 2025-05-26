@@ -1,0 +1,9 @@
+<!DOCTYPE persona [
+  <!ELEMENT persona (nombre, edad)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT edad (#PCDATA)>
+]>
+<persona>
+  <nombre>Jose</nombre>
+  <edad>45</edad>
+</persona>

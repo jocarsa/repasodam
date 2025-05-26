@@ -1,0 +1,12 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo rojo con borde negro -->
+  <circle cx="100" cy="100" r="50" fill="red" stroke="black" stroke-width="3" />
+
+  <!-- Rectángulo azul -->
+  <rect x="170" y="70" width="100" height="60" fill="blue" />
+
+  <!-- Texto en el centro -->
+  <text x="150" y="190" font-family="Arial" font-size="16" text-anchor="middle" fill="black">
+    Ejemplo SVG
+  </text>
+</svg>
