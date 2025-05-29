@@ -1,0 +1,1 @@
+resultado = 10 / 0

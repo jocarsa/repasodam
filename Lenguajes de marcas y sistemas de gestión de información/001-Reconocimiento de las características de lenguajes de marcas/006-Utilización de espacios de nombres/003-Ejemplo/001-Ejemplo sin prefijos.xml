@@ -1,0 +1,5 @@
+<libro xmlns="http://ejemplo.com/libro">
+  <titulo>Manual de XML</titulo>
+  <autor>Jose Vicente</autor>
+</libro>
+

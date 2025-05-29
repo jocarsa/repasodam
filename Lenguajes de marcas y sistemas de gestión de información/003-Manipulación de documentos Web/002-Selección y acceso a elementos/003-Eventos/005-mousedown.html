@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<title>Aprendiendo Javascript</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<button>Púlsame</button>
+		<script>
+			let elemento = document.querySelector("button");
+			elemento.onmousedown = () =>{
+				console.log("Has pulsado el botón");
+				return false;
+			}
+		</script>
+	</body>
+</html>

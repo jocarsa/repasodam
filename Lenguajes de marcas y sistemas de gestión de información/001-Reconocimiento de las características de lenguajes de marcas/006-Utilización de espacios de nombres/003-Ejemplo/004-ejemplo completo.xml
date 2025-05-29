@@ -1,0 +1,11 @@
+<catalogo xmlns:lib="http://ejemplo.com/libros"
+          xmlns:aut="http://ejemplo.com/autores">
+  <lib:libro>
+    <lib:titulo>XML desde cero</lib:titulo>
+    <aut:autor>
+      <aut:nombre>Jose Vicente</aut:nombre>
+      <aut:nacionalidad>España</aut:nacionalidad>
+    </aut:autor>
+  </lib:libro>
+</catalogo>
+

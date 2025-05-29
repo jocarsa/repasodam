@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<title>Aprendiendo Javascript</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<script>
+			class Persona{
+				#edad;
+				constructor(nuevonombre,nuevaedad){
+					this.nombre = nuevonombre;
+					this.#edad = nuevaedad;
+				}
+				
+				saluda(){
+					return "Hola ¿cómo estás?";
+				}
+				getEdad(){
+					return this.#edad;
+				}
+				setEdad(nuevaedad){
+					if(nuevaedad == this.#edad + 1){
+						this.#edad = nuevaedad;
+					}else{
+						console.error("Intento incorecto");
+					}
+				}
+			}
+			let persona1 = new Persona("Jose Vicente",47);
+			console.log(persona1.getEdad());
+			persona1.setEdad(200);
+			console.log(persona1.getEdad());
+			console.log(persona1.saluda());
+		</script>
+	</body>
+</html>

@@ -1,0 +1,6 @@
+Debe tener un solo elemento raiz
+Todas las etiquetas tienen que abrirse y cerrarse correctamente
+Las eitquetas deben estar andiadas
+Los atributos deben estar entre comillas
+Debe declararse la versión si se desea compatibildiad
+

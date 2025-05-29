@@ -1,0 +1,1 @@
+archivo = open("archivo.txt", "r", encoding="utf-8")

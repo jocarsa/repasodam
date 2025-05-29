@@ -1,0 +1,1 @@
+input("Indica tu nombre: ")

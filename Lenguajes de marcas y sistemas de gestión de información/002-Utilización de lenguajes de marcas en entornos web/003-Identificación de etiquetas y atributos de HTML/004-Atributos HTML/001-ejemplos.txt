@@ -1,0 +1,18 @@
+<etiqueta atributo="valor">Contenido</etiqueta>
+
+Atributo	Descripción	Ejemplo
+id	Identificador único para un elemento	<div id="cabecera">
+class	Asigna una o más clases CSS a un elemento	<p class="destacado">
+style	Aplica estilos en línea	<h1 style="color: red;">
+title	Muestra un texto al pasar el cursor	<a title="Ir al inicio">Inicio</a>
+href	URL de destino en enlaces (<a>)	<a href="https://ejemplo.com">
+src	Ruta de una imagen (<img>)	<img src="foto.jpg">
+alt	Texto alternativo para imágenes (<img>)	<img src="foto.jpg" alt="Descripción de la imagen">
+type	Tipo de dato o entrada (<input>, <script>)	<input type="text">
+value	Valor por defecto en formularios	<input type="text" value="Ejemplo">
+name	Nombre del campo (formularios)	<input name="usuario">
+placeholder	Texto de ayuda en campos vacíos	<input placeholder="Introduce tu nombre">
+disabled	Desactiva un campo	<input disabled>
+checked	Marca una opción (<input type="checkbox">, radio)	<input type="checkbox" checked>
+readonly	Hace que un campo sea de solo lectura	<input readonly>
+required	Hace que un campo sea obligatorio	<input required>

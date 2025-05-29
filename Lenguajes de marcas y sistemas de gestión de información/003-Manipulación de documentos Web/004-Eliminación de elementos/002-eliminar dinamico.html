@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<title>Aprendiendo Javascript</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<section>
+		</section>
+		<script>
+			let contenedor = document.querySelector("section");
+			
+			let articulo = document.createElement("article");
+			articulo.textContent = "Hola desde Javascript";
+			articulo.classList.add("clase1");
+			contenedor.appendChild(articulo);
+			articulo.remove();
+		</script>
+	</body>
+</html>

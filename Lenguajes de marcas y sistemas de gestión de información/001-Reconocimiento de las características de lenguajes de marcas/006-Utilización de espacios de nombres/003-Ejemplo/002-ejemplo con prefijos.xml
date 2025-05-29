@@ -1,0 +1,6 @@
+<documento xmlns:lib="http://ejemplo.com/libro"
+           xmlns:per="http://ejemplo.com/persona">
+  <lib:titulo>Manual de XML</lib:titulo>
+  <per:nombre>Jose Vicente</per:nombre>
+</documento>
+

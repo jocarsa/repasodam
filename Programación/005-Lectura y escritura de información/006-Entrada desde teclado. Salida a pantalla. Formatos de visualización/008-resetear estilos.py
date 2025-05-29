@@ -1,0 +1,1 @@
+print("\033[1;31m¡Alerta!\033[0m Esto es normal.")

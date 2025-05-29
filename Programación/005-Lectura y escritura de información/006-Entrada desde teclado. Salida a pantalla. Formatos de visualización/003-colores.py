@@ -1,0 +1,6 @@
+print("\033[31mTexto rojo\033[0m")
+print("\033[32mTexto verde\033[0m")
+print("\033[34mTexto azul\033[0m")
+print("\033[33mTexto amarillo\033[0m")
+print("\033[35mTexto magenta\033[0m")
+print("\033[36mTexto cian\033[0m")

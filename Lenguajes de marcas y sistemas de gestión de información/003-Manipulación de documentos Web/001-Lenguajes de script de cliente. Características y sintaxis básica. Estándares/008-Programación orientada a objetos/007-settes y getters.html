@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+	<head>
+		<title>Aprendiendo Javascript</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<script>
+			class Persona{
+				#edad;
+				constructor(nuevonombre,nuevaedad){
+					this.nombre = nuevonombre;
+					this.#edad = nuevaedad;
+				}
+				
+				saluda(){
+					return "Hola ¿cómo estás?";
+				}
+				getEdad(){
+					return this.#edad;
+				}
+			}
+			let persona1 = new Persona("Jose Vicente",47);
+			console.log(persona1.getEdad());
+			console.log(persona1.saluda());
+		</script>
+	</body>
+</html>

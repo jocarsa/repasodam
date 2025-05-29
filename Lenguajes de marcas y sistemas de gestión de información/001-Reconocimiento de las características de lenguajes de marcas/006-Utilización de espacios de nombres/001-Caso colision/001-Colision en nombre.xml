@@ -1,0 +1,8 @@
+<producto>
+  <nombre>Taladro</nombre>       <!-- ¿Nombre de producto? -->
+</producto>
+
+<persona>
+  <nombre>Jose Vicente</nombre>  <!-- ¿Nombre de persona? -->
+</persona>
+

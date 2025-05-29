@@ -1,0 +1,5 @@
+print("\033[1mTexto en negrita\033[0m")
+print("\033[3mTexto en cursiva\033[0m")
+print("\033[4mTexto subrayado\033[0m")
+print("\033[9mTexto tachado\033[0m")
+print("\033[7mTexto con colores invertidos\033[0m")
