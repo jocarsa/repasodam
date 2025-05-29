@@ -1,0 +1,3 @@
+Representa un valor desconocido
+No es ni cero ni una cadena vacía
+

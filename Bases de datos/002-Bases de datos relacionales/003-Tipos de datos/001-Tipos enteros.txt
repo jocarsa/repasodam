@@ -1,0 +1,3 @@
+INTEGER - -2147millones a 2147millones
+SMALLINT - -32768 a 32768
+BIGINT +- 9 cuatrillones

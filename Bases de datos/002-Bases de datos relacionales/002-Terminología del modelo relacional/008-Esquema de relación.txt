@@ -1,0 +1,2 @@
+Descripción de la estructura de una tabla
+Ejemplo Cliente (nombre, apellidos, email, telefono)

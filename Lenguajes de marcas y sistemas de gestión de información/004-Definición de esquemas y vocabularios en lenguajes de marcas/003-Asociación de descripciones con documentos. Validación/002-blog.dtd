@@ -1,0 +1,9 @@
+<!ELEMENT blog (post+)>
+<!ELEMENT post (titulo, fecha, autor, categorias, contenido)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT categorias (categoria+)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT contenido (#PCDATA)>
+

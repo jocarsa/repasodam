@@ -1,0 +1,3 @@
+Indica que una columna no puede tener valores nulos
+Garantiza que el campo siempre tenga un dato valido
+

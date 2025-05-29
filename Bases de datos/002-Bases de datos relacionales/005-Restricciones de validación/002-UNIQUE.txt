@@ -1,0 +1,2 @@
+Garantiza que los valores sean unicos
+

@@ -1,0 +1,3 @@
+Conjunto de valores válidos para un atributo
+Por ejemplo: enteros, cadenas, fechas, ...
+

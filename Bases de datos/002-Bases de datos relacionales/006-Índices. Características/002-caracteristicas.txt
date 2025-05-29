@@ -1,0 +1,9 @@
+Característica	Explicación
+Velocidad de búsqueda	Aceleran búsquedas, especialmente en campos con WHERE, JOIN, ORDER BY
+Consumo de espacio	Requieren almacenamiento adicional
+Costo de escritura	Aumentan el tiempo de INSERT, UPDATE, DELETE porque deben mantenerse actualizados
+Selección de columnas	Solo se deben indexar columnas usadas frecuentemente en búsquedas o filtros
+Índices compuestos	Se pueden crear sobre múltiples columnas (útiles en búsquedas combinadas)
+Índices únicos	Impiden duplicados en los valores de una columna o conjunto de columnas
+Índices parciales	Aplican solo a una parte de los datos (usando WHERE)
+Índices expresionales	Se basan en el resultado de una expresión (ej: LOWER(nombre))

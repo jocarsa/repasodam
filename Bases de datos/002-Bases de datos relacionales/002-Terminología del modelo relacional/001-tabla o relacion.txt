@@ -1,0 +1,4 @@
+Es una tabla
+Representa una entidad o asociación de entidades
+Se compone de tuplas (filas) y atributos (columnas)
+

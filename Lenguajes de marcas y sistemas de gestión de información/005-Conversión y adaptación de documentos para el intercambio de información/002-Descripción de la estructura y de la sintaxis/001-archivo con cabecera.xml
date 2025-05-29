@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="002-transformacion.xsl"?>
+<blog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="blog.xsd">
+
+    <post>
+        <titulo>Primer artículo del blog</titulo>
+        <fecha>2025-05-29</fecha>
+        <autor>Jose Vicente Carratala</autor>
+        <categorias>
+            <categoria>Tecnología</categoria>
+            <categoria>Programación</categoria>
+        </categorias>
+        <contenido>Este es el contenido de la primera entrada del blog.</contenido>
+    </post>
+
+    <post>
+        <titulo>Aprender XML con ejemplos prácticos</titulo>
+        <fecha>2025-05-30</fecha>
+        <autor>Laura González</autor>
+        <categorias>
+            <categoria>Lenguajes de marcas</categoria>
+            <categoria>XML</categoria>
+        </categorias>
+        <contenido>En este post vemos cómo usar XML para describir información estructurada.</contenido>
+    </post>
+
+    <post>
+        <titulo>Validación de documentos XML</titulo>
+        <fecha>2025-05-31</fecha>
+        <autor>Carlos Ruiz</autor>
+        <categorias>
+            <categoria>XML</categoria>
+            <categoria>Herramientas</categoria>
+        </categorias>
+        <contenido>Hoy exploramos herramientas para validar documentos con DTD y XSD.</contenido>
+    </post>
+
+</blog>
+

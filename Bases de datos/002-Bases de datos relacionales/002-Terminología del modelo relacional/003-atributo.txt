@@ -1,0 +1,3 @@
+Es una columna dentro de la tabla
+Representa una propiedad o característica de la entidad
+

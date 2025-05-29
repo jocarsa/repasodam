@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <post>
+        <titulo>Primer artículo del blog</titulo>
+        <fecha>2025-05-29</fecha>
+        <autor>Jose Vicente Carratala</autor>
+        <categorias>
+            <categoria>Tecnología</categoria>
+            <categoria>Programación</categoria>
+        </categorias>
+        <contenido>Este es el contenido de la primera entrada del blog.</contenido>
+    </post>
+</blog>

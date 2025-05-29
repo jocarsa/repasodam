@@ -1,0 +1,7 @@
+Tipo de índice	Descripción
+B-tree (por defecto)	Eficiente para igualdad y rangos (=, <, >, BETWEEN)
+Hash	Optimizado solo para igualdad (=)
+GiST	Útil para búsquedas espaciales, texto completo, etc.
+GIN	Especializado en arrays, JSONB, búsquedas de múltiples valores
+SP-GiST	Similar a GiST, más eficiente en ciertos escenarios
+BRIN	Bueno para grandes tablas ordenadas por fecha u otros valores correlacionados

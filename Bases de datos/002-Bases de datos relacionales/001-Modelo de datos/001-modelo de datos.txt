@@ -1,0 +1,40 @@
+🧩 Modelo de Datos para una Empresa
+1. Cliente
+ID Cliente (clave primaria)
+Nombre
+Dirección
+Teléfono
+Email
+Fecha de alta
+
+2. Producto
+ID Producto (clave primaria)
+Nombre
+Descripción
+Precio
+Stock
+
+3. Pedido
+ID Pedido (clave primaria)
+Cliente (relación con Cliente)
+Fecha del pedido
+Estado del pedido (pendiente, enviado, cancelado, etc.)
+Total del pedido
+
+4. Línea de Pedido
+ID Línea de Pedido (clave primaria)
+Pedido (relación con Pedido)
+Producto (relación con Producto)
+Cantidad
+Precio unitario
+Subtotal
+
+🔄 Relaciones
+Un cliente puede tener muchos pedidos.
+Un pedido pertenece a un solo cliente.
+Un pedido puede tener muchas líneas de pedido.
+Una línea de pedido pertenece a un pedido.
+Una línea de pedido se refiere a un producto.
+Un producto puede estar en muchas líneas de pedido.
+
+

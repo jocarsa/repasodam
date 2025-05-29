@@ -1,0 +1,3 @@
+Son las filas de las tablas
+Representan registros individuales
+

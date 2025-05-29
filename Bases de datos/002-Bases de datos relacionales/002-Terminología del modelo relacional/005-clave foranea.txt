@@ -1,0 +1,3 @@
+Atributos que hacen referencia a la clave primaria de otra tabla
+Establece relación entre dos tablas
+

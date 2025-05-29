@@ -1,0 +1,6 @@
+post:
+	Título
+	Fecha
+	Autor
+	Categorías
+	Contenido

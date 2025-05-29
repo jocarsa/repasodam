@@ -1,0 +1,2 @@
+Asegura que los valores coincidan con los de clave primaria de otra tabla
+Mantiene la integridad referencial

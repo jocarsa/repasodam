@@ -1,0 +1,3 @@
+CHAR(n) - Texto de longitud fija
+VARCHAR(n) - Texto de longitud variable
+TEXT - Texto largo sin limite

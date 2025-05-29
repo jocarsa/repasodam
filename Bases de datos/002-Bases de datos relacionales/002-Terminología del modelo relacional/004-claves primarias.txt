@@ -1,0 +1,3 @@
+Atributo (o conjunto) que identifica de forma unica cada tupla en una relacion
+No puede ser NULL no puede repetirse
+

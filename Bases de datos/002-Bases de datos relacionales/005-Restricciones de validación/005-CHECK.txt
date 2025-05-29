@@ -1,0 +1,2 @@
+Validan que se cumpla una condición lóigica
+

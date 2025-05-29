@@ -1,0 +1,2 @@
+El conjunto de tuplas en una relación en un momento dado
+

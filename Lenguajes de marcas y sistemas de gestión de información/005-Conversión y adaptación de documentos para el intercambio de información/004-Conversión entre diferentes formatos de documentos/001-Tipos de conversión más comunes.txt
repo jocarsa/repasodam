@@ -1,0 +1,6 @@
+Origen	Destino	Usos habituales
+XML	HTML	Mostrar contenido en web (visto en 5.1 y 5.3)
+XML	JSON	APIs, aplicaciones web, JavaScript
+XML	CSV	Importar datos en hojas de cálculo
+XML / HTML	PDF	Generar informes imprimibles
+JSON	XML	Interoperabilidad entre sistemas

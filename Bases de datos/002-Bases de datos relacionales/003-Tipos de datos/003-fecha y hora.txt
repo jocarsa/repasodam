@@ -1,0 +1,4 @@
+DATE - Solo la fecha
+TIME - Hora sin fecha
+TIMESTAMP - Fecha y hora
+INTERVAL - Periodo de tiempo

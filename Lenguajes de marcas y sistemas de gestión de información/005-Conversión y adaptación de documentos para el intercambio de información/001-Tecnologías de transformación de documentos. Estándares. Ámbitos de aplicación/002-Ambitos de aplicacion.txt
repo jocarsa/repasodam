@@ -1,0 +1,6 @@
+Ámbito	Ejemplo
+Web	Transformar un XML en HTML para mostrar posts de un blog.
+APIs	Convertir XML a JSON para enviar a un servicio REST.
+Ofimática	Exportar datos en XML a CSV para abrir en Excel.
+Publicación	Convertir HTML a PDF con herramientas como wkhtmltopdf.
+Intercambio de información	Transformar documentos entre organizaciones con estructuras distintas (por ejemplo, facturas electrónicas XML a PDF).

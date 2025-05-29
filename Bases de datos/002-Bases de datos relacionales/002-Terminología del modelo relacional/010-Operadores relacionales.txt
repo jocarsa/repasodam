@@ -1,0 +1,5 @@
+Basadas en el algebra relaciol
+Seleccionar
+Proyectar
+Unir, intersectar, diferenciar, producto cartesiano, etc
+

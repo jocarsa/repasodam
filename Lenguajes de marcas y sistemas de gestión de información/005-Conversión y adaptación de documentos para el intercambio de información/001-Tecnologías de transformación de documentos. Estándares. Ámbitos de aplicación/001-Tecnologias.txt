@@ -1,0 +1,7 @@
+Tecnología	Propósito	Lenguajes compatibles	Estándar
+XSLT (eXtensible Stylesheet Language Transformations)	Transformar XML en HTML, XML o texto	XML	✔ W3C
+XPath	Lenguaje para acceder a nodos dentro de XML	XML, XSLT	✔ W3C
+XQuery	Consultas complejas y transformación de XML	XML	✔ W3C
+JSON + scripts	Conversión XML ↔ JSON para entornos web	JS, Python	✘
+Librerías de programación (xml.etree, lxml, json, xml2json)	Transformaciones personalizadas	Python, Java, JavaScript, etc.	✘
+Herramientas CLI (xmlstarlet, pandoc)	Procesamiento masivo o en terminal	XML, HTML, Markdown, etc.	✘

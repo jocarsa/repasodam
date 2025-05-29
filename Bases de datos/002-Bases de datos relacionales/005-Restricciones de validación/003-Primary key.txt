@@ -1,0 +1,2 @@
+Combina NOT NULL y UNIQUE
+
